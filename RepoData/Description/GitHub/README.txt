@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+⬆️💣️🌐️ The official source repository for the website of the StartFSCK project, a utility to be installed inside a virtual machine that gives various ways to fsck the startup folder, thus the startup process. This project is malware, DO NOT RUN IT ON YOUR HOST COMPUTER, VIRTUAL MACHINES ONLY! 
